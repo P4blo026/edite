@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+audio{
+    text-align: center;
+    margin: 0 auto; /
+}
+body{
+    background-color: #D8D2C2;
+}
+header{
+    text-align: center;
+    background-color: #B17457;
+    height: 10vh;
+}
+footer{
+    background-color: #FAF7F0;
+    display: flex;
+    margin-top: 20px;
+    width: 100%;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.texto{
+    margin-right: 50%;
+    margin-left: 10px;
+}
+.texto p{
+    margin-top: 20px;
+}
+.vovó{
+    display: flex;
+    margin-top: -120vh;
+    margin-left: 125vh;
+}
+.vovó2{
+    width: 30%;
+    display: flex;
+    margin-top: 3vh;
+    margin-left: 125vh;
+}
